@@ -1,0 +1,132 @@
+
+/*
+Author Name: bootstrapthemes
+Author link: http://bootstrapthemes.co
+*/
+
+
+@font-face {
+    font-family: 'ralewaybold';
+    src: url('raleway-bold.eot');
+    src: url('raleway-bold.eot?#iefix') format('embedded-opentype'),
+         url('raleway-bold.woff2') format('woff2'),
+         url('raleway-bold.woff') format('woff'),
+         url('raleway-bold.ttf') format('truetype'),
+         url('raleway-bold.svg#ralewaybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaylight';
+    src: url('raleway-light.eot');
+    src: url('raleway-light.eot?#iefix') format('embedded-opentype'),
+         url('raleway-light.woff2') format('woff2'),
+         url('raleway-light.woff') format('woff'),
+         url('raleway-light.ttf') format('truetype'),
+         url('raleway-light.svg#ralewaylight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaymedium';
+    src: url('raleway-medium.eot');
+    src: url('raleway-medium.eot?#iefix') format('embedded-opentype'),
+         url('raleway-medium.woff2') format('woff2'),
+         url('raleway-medium.woff') format('woff'),
+         url('raleway-medium.ttf') format('truetype'),
+         url('raleway-medium.svg#ralewaymedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('raleway-regular.eot');
+    src: url('raleway-regular.eot?#iefix') format('embedded-opentype'),
+         url('raleway-regular.woff2') format('woff2'),
+         url('raleway-regular.woff') format('woff'),
+         url('raleway-regular.ttf') format('truetype'),
+         url('raleway-regular.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaysemibold';
+    src: url('raleway-semibold.eot');
+    src: url('raleway-semibold.eot?#iefix') format('embedded-opentype'),
+         url('raleway-semibold.woff2') format('woff2'),
+         url('raleway-semibold.woff') format('woff'),
+         url('raleway-semibold.ttf') format('truetype'),
+         url('raleway-semibold.svg#ralewaysemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaythin';
+    src: url('raleway-thin.eot');
+    src: url('raleway-thin.eot?#iefix') format('embedded-opentype'),
+         url('raleway-thin.woff2') format('woff2'),
+         url('raleway-thin.woff') format('woff'),
+         url('raleway-thin.ttf') format('truetype'),
+         url('raleway-thin.svg#ralewaythin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'latobold';
+    src: url('lato-bold-webfont.eot');
+    src: url('lato-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lato-bold-webfont.woff2') format('woff2'),
+         url('lato-bold-webfont.woff') format('woff'),
+         url('lato-bold-webfont.ttf') format('truetype'),
+         url('lato-bold-webfont.svg#latobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sanchezregular';
+    src: url('sanchez-regular.eot');
+    src: url('sanchez-regular.eot?#iefix') format('embedded-opentype'),
+         url('sanchez-regular.woff2') format('woff2'),
+         url('sanchez-regular.woff') format('woff'),
+         url('sanchez-regular.ttf') format('truetype'),
+         url('sanchez-regular.svg#sanchezregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
